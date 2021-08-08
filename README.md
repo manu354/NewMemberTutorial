@@ -1,4 +1,4 @@
-# JuniorTutorial
+# New Member Onboarding Tutorial
 
 This is a ROS & Git introductory challenge for the new members to work their way through.
 
